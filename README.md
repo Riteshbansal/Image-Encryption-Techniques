@@ -1,2 +1,3 @@
-# Image-Encryption-Techniques
-A Comparison of Image Encryption Techniques based on Chaotic Maps
+# [A Comparison of Image Encryption Techniques based on Chaotic Maps](http://ieeexplore.ieee.org/abstract/document/7724400/?reload=true)
+>From recent times, security in data communication is a prime concern for every researcher. Several mechanisms for image encryption have been proposed that employs the use of chaotic maps. These maps are used since they provide large key space, randomness in the cipher-image and a good sensitivity values for initial conditions. This paper is an effort to compare these image encryption schemes based on Chaotic maps. The techniques are implemented in MATLAB-2015 and are compared on the basis of several performance metrics such as: Peak Signal to Noise Ratio (PSNR), Number of Pixels Change Rate (NPCR), Unified Average Changing Intensity (UACI) & Entropy. Also, in this paper some techniques on how to improve chaotic encryption schemes are also discussed.
+#### For Code please put in your request
